@@ -1,8 +1,8 @@
 <?php
- $host = "ruapdbserver.mysql.database.azure.com";
- $user = "ruapUser@ruapdbserver";
- $pwd = "Ruap1234";
- $db = "ruapdb";
+ $host = "mysiteperko-server.mysql.database.azure.com";
+ $user = "wkmwqyqsia";
+ $pwd = "430G0O037CGTI558$";
+ $db = "mysiteperko-database";
  // $host = "127.0.0.1:52932";
  // $user = "azure";
  // $pwd = "6#vWHD_$";
